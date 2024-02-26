@@ -1,4 +1,4 @@
-terrrrrrrrrraform {  
+terraform {  
   required_providers {     
     ibm = {       
       version = "~> 1.56"       
