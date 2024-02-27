@@ -9,7 +9,7 @@ terraform {
 # Configure the IBM Provider
 provider "ibm" {
   region           = "us-east"  
-  ibmcloud_api_key = "3a0VNgHF2MJFzSuwUlEWiqZui18r9teiB9lVsDrFfyfi" 
+  ibmcloud_api_key = "bDJfsTemaRtEFz_3QP_o4qqYBnHqllu_Jqkpy-7PUMMm" 
 }
 # Configure the resource group
 data "ibm_resource_group" "db_default" {
